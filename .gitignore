@@ -1,0 +1,9 @@
+env
+*.pyc
+.vscode/
+poetry.lock
+pyproject.toml
+Dockerfile
+.dockerignore
+fly.toml
+.idea
